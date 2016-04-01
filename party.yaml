@@ -1,0 +1,7 @@
+#this is the party schema
+ Party:
+  properties:
+    fname:
+      type: string
+    lname:
+      type: string
